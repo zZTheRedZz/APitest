@@ -1,0 +1,82 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "password": "duoc1234",
+      "email": "usuario1@mail.cl",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "username": "usuario2",
+      "password": "maipu1234",
+      "email": "usuario2@mail.cl",
+      "isactive": true
+    },
+    {
+      "id": "13a7",
+      "username": "sebastian",
+      "email": "sebaruz2004@gmail.com",
+      "password": "Pancopalta1234",
+      "isactive": true
+    },
+    {
+      "id": "db4f",
+      "username": "pancon",
+      "email": "asdasd@asdasd.com",
+      "password": "Panconpalta23",
+      "isactive": true
+    },
+    {
+      "id": "d74a",
+      "username": "buenabenja",
+      "email": "pepitoelbkn@gmail.com",
+      "password": "chipito123",
+      "isactive": true
+    }
+  ],
+  "eventos": [
+    {
+      "id": "2",
+      "nombre": "Exposición de Arte",
+      "fecha": "2024-12-01",
+      "correo": "info@artshow.com",
+      "telefono": "+56 9 98765432",
+      "ubicacion": "Centro Cultural, Valparaíso",
+      "descripcion": "Exposición de arte contemporáneo de artistas locales.",
+      "inscritos": [
+        1,
+        "13a7",
+        "db4f"
+      ]
+    },
+    {
+      "id": "3",
+      "nombre": "Feria Gastronómica",
+      "fecha": "2025-01-20",
+      "correo": "info@feriagastronomica.com",
+      "telefono": "+56 9 87654321",
+      "ubicacion": "Parque Bicentenario, Santiago",
+      "descripcion": "Feria con la mejor comida de diferentes partes del mundo.",
+      "inscritos": [
+        1,
+        "13a7",
+        "db4f"
+      ]
+    },
+    {
+      "id": "4",
+      "nombre": "Carrera 5K",
+      "fecha": "2025-03-10",
+      "correo": "info@carrerafamiliar.com",
+      "telefono": "+56 9 65432109",
+      "ubicacion": "Plaza de la Ciudadanía, Santiago",
+      "descripcion": "Carrera para toda la familia, ven y corre con nosotros.",
+      "inscritos": [
+        "db4f",
+        "d74a"
+      ]
+    }
+  ]
+}
